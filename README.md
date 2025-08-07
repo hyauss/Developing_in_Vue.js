@@ -1,4 +1,4 @@
-# Final project of the course Web Development Fundamentals by [TIC em Trilhas](https://ticemtrilhas.org.br/).
+# Final project of the course Introduction to Vue.js by [TIC em Trilhas](https://ticemtrilhas.org.br/).
 
 A functional movie catalog application, solidifying the knowledge acquired in HTML, CSS, JavaScript and the Vue.js framework itself throughout the course.
 
